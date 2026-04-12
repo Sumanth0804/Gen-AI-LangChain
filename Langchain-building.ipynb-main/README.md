@@ -1,6 +1,6 @@
 # LangChain Deep Technical Blog
 
-🔗 Medium Blog: https://medium.com/@shrawankavitha1305/deep-technical-blog-on-langchain-a147d2fdae51
+🔗 Medium Blog: https://medium.com/@SumanthNagireddy/langchain-deep-dive-building-modular-llm-applications-cb24dcf70b37
 
 ## Contents
 - LLM Example
